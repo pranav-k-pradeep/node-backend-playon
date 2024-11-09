@@ -1,0 +1,1 @@
+This the backend of PlayOn , a turf booking application built using NodeJS , ExpressJS and PostgreSQL. A user can login can view turfs and book them according to the available slots. A turf owner can login and confirm or reject these requests. Once a turf is booked , the user is redirected to the payment page . The payemnt page is being set up.
